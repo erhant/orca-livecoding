@@ -1,4 +1,4 @@
-# Examples
+# Sequencing
 
 These are a collection of ways you might make melodies and rythms. All examples (boxes) have a variable at the top left, where you can give `*` as its value to play the example.
 
